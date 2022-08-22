@@ -24,7 +24,7 @@
     </samp>
 </p>  
 
- <p align="center">
+<!--  <p align="center">
 <a href="https://www.kaggle.com/prathamsaraf1389" target=_blank><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a>
  
 <!--   <a href="https://dev.to/tanav2202" target=_blank><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a> -->
@@ -40,7 +40,7 @@
  
   
  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/prathamsaraf1389/discussion" />
- </p>
+ </p> -->
 <!--  <h2 align="center" > My Laptop looks like this </h2> -->
 
 <!--
