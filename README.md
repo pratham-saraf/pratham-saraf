@@ -13,7 +13,7 @@
 👨‍💻 19 yo <br> 💻 Linux User <br> 📊 Data Science Enthusiast <br>
     🏡 Based in India 🇮🇳<br>
     🏫 CS Student from IIIT Bhopal [2025]<br>
-    ✉	<a href="mailto:contact@psaraf.me">send a mail <br>
+    ✉	<a href="mailto:contact@psaraf.me">send a mail</a> <br>
     ✏ CV: <a href="https://psaraf.me/pratham_saraf_resume.pdf">View Resume</a> <br>
     💼 LinkedIn:  <a href="https://www.linkedin.com/in/pratham-saraf/">LinkedIn Profile</a> <br>
     🐦 Twitter:  <a href="https://twitter.com/saraf183">Twitter</a> <br>
