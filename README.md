@@ -17,15 +17,15 @@
     ✏ CV: <a href="https://psaraf.me/pratham_saraf_resume.pdf">View Resume</a> <br>
     💼 LinkedIn:  <a href="https://www.linkedin.com/in/pratham-saraf/">LinkedIn Profile</a> <br>
     🐦 Twitter:  <a href="https://twitter.com/saraf183">Twitter</a> <br>
-   📱 Portfolio :  <a href="https://psaraf.me">psaraf.me</a> <br><br><br>
+   📱 Portfolio :  <a href="https://psaraf.xyz">psaraf.xyz</a> <br><br><br>
     </samp>
 </p>  
 
-<!--  <p align="center">
+  <p align="center">
 <a href="https://www.kaggle.com/prathamsaraf1389" target=_blank><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="65" width="70" ></a>
  
-<!--   <a href="https://dev.to/tanav2202" target=_blank><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a> -->
- <!-- </p> 
+ <a href="https://dev.to/prathamsaraf1389" target=_blank><img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="60" width="60" ></a> 
+</p> 
  <p align="left">
  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/prathamsaraf1389/notebook" />
  
@@ -37,7 +37,7 @@
  
   
  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/prathamsaraf1389/discussion" />
- </p> --> 
+ </p> 
 <!--  <h2 align="center" > My Laptop looks like this </h2> -->
 
 
